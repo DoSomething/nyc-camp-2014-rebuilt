@@ -1,12 +1,7 @@
-### Drupal NYC Camp 2013: Non-profit Summit
-#### Process for non-profits
+### Drupal NYC Camp 2014: Non-profit Summit
+#### Rebuilt From The Ground Up
 
+In 2013, DoSomething.org realized they needed to rethink everything about their web platform to support their strategic goals. Come hear what they learned about systems architecture, product design, developer happiness, and organizational priorities.
 
-By Desmond Morris & Matt Holford or DoSomething.org
+By Barry Clark & Desmond Morris of DoSomething.org
 
-**Outline**
-* Background
-* Method for Change
-* Destroy the Silos
-* Automation
-* Next Up
